@@ -7,13 +7,13 @@ about:
   head: 2862536
   archived: false
   latestVersion: 1.6.1
-  collectedAt: 2026-09-04T19:26:13Z
+  collectedAt: 2026-09-04T21:06:31Z
 timeline:
   created: 2014-01-11
   lastCommit: 2025-10-20
   lastRelease: 2024-08-30
 popularity:
-  star: 22416
+  star: 22417
   watcher: 223
   fork: 2645
   release: 15
@@ -83,6 +83,69 @@ total:
   openIssue: 119
   commit: 2118
 ---
+path: /home/runner/.x-repo/github.com/mkdocs/mkdocs
+collectedAt: 2026-09-04T21:06:32Z
+loc:
+  Python:
+    code: 15882
+    comments: 308
+    blanks: 3141
+    files: 65
+  JavaScript:
+    code: 10545
+    comments: 2532
+    blanks: 1074
+    files: 43
+  Svg:
+    code: 3380
+    comments: 71
+    blanks: 0
+    files: 2
+  Html:
+    code: 664
+    comments: 15
+    blanks: 59
+    files: 20
+  Css:
+    code: 465
+    comments: 150
+    blanks: 92
+    files: 10
+  Yaml:
+    code: 229
+    comments: 4
+    blanks: 36
+    files: 9
+  Toml:
+    code: 219
+    comments: 0
+    blanks: 20
+    files: 1
+  Xml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 5
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5130
+    blanks: 2045
+    files: 37
+  Text:
+    code: 0
+    comments: 156
+    blanks: 2
+    files: 2
+total:
+  code: 31994
+  comments: 8405
+  blanks: 6501
+  files: 191
 ---
 date: "2026-08-24"
 repo:
