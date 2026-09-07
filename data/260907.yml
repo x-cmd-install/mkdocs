@@ -5,15 +5,15 @@ about:
   head: 2862536
   archived: false
   latestVersion: "1.6.1"
-  collectedAt: 2026-09-07T05:31:16Z
+  collectedAt: 2026-09-07T18:57:07Z
 timeline:
   created: 2014-01-11
   lastCommit: 2025-10-20
   lastRelease: 2024-08-30
 popularity:
-  star: 22421
+  star: 22425
   watcher: 224
-  fork: 2646
+  fork: 2645
   release: 15
   contributor: 240
   pullRequest: 1410
@@ -82,7 +82,7 @@ total:
   commit: 2118
 ---
 path: /home/runner/.x-repo/github.com/mkdocs/mkdocs
-collectedAt: 2026-09-07T05:31:20Z
+collectedAt: 2026-09-07T18:57:12Z
 loc:
   Python:
     code: 15882
@@ -251,7 +251,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:20+00:00
+  collectedAt: 2026-09-07T18:57:21+00:00
   platform:
     darwin/arm64:
       name:  null
