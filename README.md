@@ -7,7 +7,7 @@ Project documentation with Markdown.
 - **Latest release**: `1.6.1` (2024-08-30)
 - **Last commit**: 2025-10-20
 - **License**: BSD-2-Clause
-- **Stars**: 22426 · **Forks**: 2644 · **Open issues**: 2122 · **Contributors**: 240
+- **Stars**: 22427 · **Forks**: 2646 · **Open issues**: 2122 · **Contributors**: 240
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/mkdocs> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:40:57Z._
+_Last regenerated: 2026-09-09T19:54:17Z._
