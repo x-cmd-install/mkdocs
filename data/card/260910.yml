@@ -7,7 +7,7 @@ about:
   latestVersion: "1.6.1"
   latestRelease: "1.6.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:45:25Z
+  collectedAt: 2026-09-10T17:32:33Z
 timeline:
   created: 2014-01-11
   lastCommit: 2025-10-20
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2024-08-30
   lastPrerelease: 
 popularity:
-  star: 22429
+  star: 22426
   watcher: 224
-  fork: 2646
+  fork: 2645
   release: 15
   contributor: 240
   pullRequest: 1412
@@ -86,7 +86,7 @@ total:
   commit: 2118
 ---
 path: /home/runner/.x-repo/github.com/mkdocs/mkdocs
-collectedAt: 2026-09-10T05:45:27Z
+collectedAt: 2026-09-10T17:32:35Z
 loc:
   Python:
     code: 15882
