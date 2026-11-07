@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,533 · **Forks**: 2,659 · **Open issues**: 2,124 · **Contributors**: 240
+- **Stars**: 22,540 · **Forks**: 2,657 · **Open issues**: 2,124 · **Contributors**: 240
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 7 | 0 | 3 | 0 |
-| last180d | 2026-05-10 | 0 | 0 | 26 | 2 | 7 | 0 |
-| 360d | 2025-11-11 | 0 | 0 | 39 | 7 | 16 | 0 |
-| last720d | 2024-11-16 | 0 | 4 | 44 | 52 | 59 | 4 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last180d | 2026-05-11 | 0 | 0 | 26 | 2 | 7 | 0 |
+| 360d | 2025-11-12 | 0 | 0 | 39 | 7 | 16 | 0 |
+| last720d | 2024-11-17 | 0 | 4 | 44 | 51 | 59 | 4 |
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/mkdocs). **26** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/mkdocs). **28** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for mkdocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:33:18Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:51:52Z._
