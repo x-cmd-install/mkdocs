@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,538 · **Forks**: 2,656 · **Open issues**: 2,124 · **Contributors**: 240
+- **Stars**: 22,538 · **Forks**: 2,659 · **Open issues**: 2,124 · **Contributors**: 240
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 5 | 0 | 3 | 0 |
-| last180d | 2026-05-12 | 0 | 0 | 26 | 2 | 7 | 0 |
-| 360d | 2025-11-13 | 0 | 0 | 39 | 7 | 16 | 0 |
-| last720d | 2024-11-18 | 0 | 4 | 44 | 51 | 59 | 4 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 23 | 2 | 7 | 0 |
+| 360d | 2025-11-15 | 0 | 0 | 39 | 7 | 16 | 0 |
+| last720d | 2024-11-20 | 0 | 4 | 44 | 51 | 59 | 4 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for mkdocs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:53:52Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:23:02Z._
