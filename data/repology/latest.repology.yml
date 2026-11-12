@@ -1,14 +1,17 @@
-- repo: parabola
-  subrepo: extra
+- repo: solus
   srcname: mkdocs
   binname: mkdocs
   visiblename: mkdocs
-  version: 1.6.1
-  origversion: 1.6.1-3
-  status: newest
-  summary: Project documentation with Markdown
+  version: 1.5.3
+  origversion: null
+  status: outdated
+  summary: Project documentation with&#xA0;Markdown
+  maintainers:
+    - josephriches@gmail.com
   licenses:
     - BSD-2-Clause
+  categories:
+    - programming.tools
 - repo: alpine_3_19
   subrepo: community
   srcname: mkdocs
@@ -446,17 +449,14 @@
     - rk@simple-is-better.org
   licenses:
     - BSD-2-Clause
-- repo: solus
+- repo: parabola
+  subrepo: extra
   srcname: mkdocs
   binname: mkdocs
   visiblename: mkdocs
-  version: 1.5.3
-  origversion: null
-  status: outdated
-  summary: Project documentation with&#xA0;Markdown
-  maintainers:
-    - josephriches@gmail.com
+  version: 1.6.1
+  origversion: 1.6.1-3
+  status: newest
+  summary: Project documentation with Markdown
   licenses:
     - BSD-2-Clause
-  categories:
-    - programming.tools
